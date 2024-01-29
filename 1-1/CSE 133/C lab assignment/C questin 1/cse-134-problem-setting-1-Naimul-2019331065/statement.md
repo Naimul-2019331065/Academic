@@ -22,9 +22,9 @@ Print an integer number, the maximum number of Jackfruit trees where there will 
 5 1\
 3 3\
 1 9\
-4 4\
+4 4
 
 **Sample Output**
 1\
-1\
+1
 
