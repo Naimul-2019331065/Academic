@@ -1,0 +1,3 @@
+# Editorials for the Problem
+
+The solution of this problem is simple. There are some possible cases. If the number of mango tree is zero or the number of jack fruit tree is zero then the answer will be direct zero. If the distance between to mango tree is zero then all the mango trees should be planned in the same position and we can plant all the jack fruit trees in the same position if the distance between two jack fruit trees is zero. If b<u><</u>a then the answer will be min(m, j). Otherwise we need to set the minimum distance of two jack fruit trees as c where b<u><</u>c.    
