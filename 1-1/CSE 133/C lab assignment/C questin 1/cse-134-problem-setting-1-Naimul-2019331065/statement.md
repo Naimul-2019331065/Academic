@@ -17,14 +17,14 @@ The first line contains an integer `t` (0 < t ≤ 10), the number of test cases.
 **Output**  
 Print an integer number, the maximum number of Jackfruit trees where there will be at least one mango tree on the opposite side of those jackfruit trees.
 
-**Sample Input**
+**Sample Input**\
 2\
 5 1\
 3 3\
 1 9\
 4 4
 
-**Sample Output**
+**Sample Output**\
 1\
 1
 
